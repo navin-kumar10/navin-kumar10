@@ -24,10 +24,10 @@ I mostly work with Cloud based technologies. 🚀
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://devopedia.org/images/article/100/9335.1538393658.svg"  height="75" />
+    <img src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif"  height="75" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+    <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" height="70" />
   </a>
  </p>
   
