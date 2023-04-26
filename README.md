@@ -14,55 +14,36 @@
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
 </a>
   &nbsp;&nbsp;
-<a href="https://instagram.com/yatharth_sharma_7" target="blank">
+<a href="https://instagram.com/__shoot__the__kuruvi" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
 </a>
-  &nbsp;&nbsp;
-<a href="https://yatharthsharma.home.blog/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
 </a></p>
 
 ![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Sr. DevOps Engineer**
+🏢 I’m currently working in [Kultivate](https://www.kultivate.in/) as **DevOps Engineer**
 
-🌱 I’m currently working on **Setting up infra using Terraform over AWS**
-
-💡 Hashtag that describes me **`#DevOpsWizard`**
-
-📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
+💡 I’m currently working on **Setting up cloud infrastructure over AWS & DigitalOcean**
 
 💬 Ask me about **DevOps Tools and Practices**
 
-📫 You can reach me at **yatharth0045@gmail.com**
+📫 You can reach me at **navinkumar@kultivateindia.com**
 
 ⚡ Fun fact **We guys automate stuff**
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
+- 📦 Terraform Templates for setting up Infrastructure over AWS 
 
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
+- 📦 Deployment of a static webpage using AWS s3 and CloudFront 
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Yatharth0045/static)
+- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 
 
-- 📦 CI of a python application using circleCI - [Github](https://github.com/Yatharth0045/docker-python-app)
+- 📦 CI CD of a python Django application Deploy using ECS & ECR
 
-- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
+- 📦 Containerizing MicroService and running it over AWS & Digital Ocean (Kubernetes , ECS & EC2,Droplets)
 
-- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)   
-
-##### 🧾 Certifications I have Accomplished
-
-- 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
-
-- 🎖 Various Certification of Docker and Kubernetes - Pluralsight
-
-- 🎖 AWS Concepts - LinuxAcademy
-
-- 🎖 Packaging Applications using Helm - Pluralsight and many more...
-
-- 🎖🎖🎖 Complete list of my certifications [here](https://stackoverflow.com/users/story/8779883)
+- 📦 An Project for setting up end to end devops integration and pipeline prepared over AWS & Digital Ocean
 
 #### Programming Language Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
