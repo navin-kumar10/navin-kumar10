@@ -21,7 +21,7 @@ I mostly work with Cloud based technologies. 🚀
   </a>
   
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
+    <img src="https://elastio.com/wp-content/uploads/2022/07/img-agility-pipelines.gif"  height="65" />
   </a>
   <a href="https://kubernetes.io/" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif"  height="75" />
