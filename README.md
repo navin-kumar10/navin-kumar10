@@ -5,16 +5,13 @@
 -->
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
-I mostly work with Cloud based technologies. 🚀
+<img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
 
+I mostly work with Cloud based technologies. 🚀
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
     <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
   <a href="https://www.djangoproject.com/" target="_blank" >
@@ -27,6 +24,10 @@ I mostly work with Cloud based technologies. 🚀
   
    <a href="https://spring.io/" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*MmlUmaa0oRxkQXzrKghdMQ.gif"  height="80" /> 
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
   </a>
   
   <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" >
