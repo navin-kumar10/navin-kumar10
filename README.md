@@ -1,65 +1,88 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Navin kumar 🌀 from India 🇮🇳</h1>
+<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
-<!--
-**navin-kumar10/navin-kumar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+<p align="center">
+<a href="https://www.linkedin.com/in/navin-kumar-3161a620a" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://fb.com/yatharth.sharma.31" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://instagram.com/yatharth_sharma_7" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
+</a>
+  &nbsp;&nbsp;
+<a href="https://yatharthsharma.home.blog/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/wordpress.svg" alt="yatharth_sharma_blogs" width="22px" />
+</a></p>
 
-<h1 align="center">Hi 👋, I'm Navin Kumar</h1>
-<h3 align="center">A passionate DevOps Engineer from India</h3>
+![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
 
-<img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
+🏢 I’m currently working in [Knoldus](https://www.knoldus.com/home) as **Sr. DevOps Engineer**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiakhatoon767&label=Profile%20views&color=0e75b6&style=flat" alt="safiakhatoon767" /> </p>
+🌱 I’m currently working on **Setting up infra using Terraform over AWS**
 
-I mostly work with Cloud based technologies. 🚀
+💡 Hashtag that describes me **`#DevOpsWizard`**
 
-<p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-  <a href="https://angular.io/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:504/0*PWV0bJNbd7ELrE53.gif"  height="80" /> 
-  </a>
-  
-   <a href="https://spring.io/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*MmlUmaa0oRxkQXzrKghdMQ.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.redhat.com/en/topics/devops/what-is-ci-cd" target="_blank" >
-    <img src="https://elastio.com/wp-content/uploads/2022/07/img-agility-pipelines.gif"  height="65" />
-  </a>
-  
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif"  height="75" />
-  </a>
-  
-  <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://media.licdn.com/dms/image/C4E12AQFGLdQlPRFtlQ/article-cover_image-shrink_600_2000/0/1624644461348?e=2147483647&v=beta&t=GH_YOyKhY3ZwWhF1fOls_FG8hKaEM3qO4FnJCUvYIbw" height="70" />
-  </a>
- </p>
-  
-### DevOps
-  
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
+📝 I regulary write articles on [Knoldus Blogs](https://blog.knoldus.com/author/yatharthsharma4251/)
 
-### 📫 Reach Me..
+💬 Ask me about **DevOps Tools and Practices**
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/navin-kumar-3161a620a/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/__shoot__the__kuruvi__/) ✨
- - Shoot Me an [Email](mailto:navinkumar@kultivateindia.com) 💌
+📫 You can reach me at **yatharth0045@gmail.com**
+
+⚡ Fun fact **We guys automate stuff**
+
+##### 👨‍💻 Some of the projects I have worked recently
+
+- 📦 Terraform Templates for setting up Infrastructure over AWS - [Github](https://github.com/Yatharth0045/terraform-quickstart)
+
+- 📦 Deployment of a static webpage using AWS s3 and CloudFront - [Github](https://github.com/Yatharth0045/s3-cloudFront)
+
+- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 - [Github](https://github.com/Yatharth0045/static)
+
+- 📦 CI of a python application using circleCI - [Github](https://github.com/Yatharth0045/docker-python-app)
+
+- 📦 Containerizing a ML MicroService and running it over Kubernetes - [Github](https://github.com/Yatharth0045/operationalize-ml-microservice-api)
+
+- 📦 A Capstone Project for setting up end to end devops pipeline prepared during accomplishing Udacity Cloud DevOps Nanodegree - [Github](https://github.com/Yatharth0045/capstone-udacity)   
+
+##### 🧾 Certifications I have Accomplished
+
+- 🎖 Cloud DevOps NanoDegree - [Udacity](https://graduation.udacity.com/confirm/CJFQKGVM)
+
+- 🎖 Various Certification of Docker and Kubernetes - Pluralsight
+
+- 🎖 AWS Concepts - LinuxAcademy
+
+- 🎖 Packaging Applications using Helm - Pluralsight and many more...
+
+- 🎖🎖🎖 Complete list of my certifications [here](https://stackoverflow.com/users/story/8779883)
+
+#### Programming Language Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
+
+#### OS Stack
+<p align="left"><img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
+
+#### Database Stack
+<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
+
+#### Dev Stack
+<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
+
+#### DevOps Stack 
+<p align="left"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
+
+#### Project Management Stack
+<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
+
+#### Editor / IDE I ♥
+<p align="left"><img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatharth0045&show_icons=true&hide=stars,issues" alt="yatharth0045" /></p>
