@@ -3,9 +3,13 @@
 <!--
 **navin-kumar10/navin-kumar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 <h1 align="center">Hi 👋, I'm Navin Kumar</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
+
 <img align="right" alt="DevOps" width="400" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/06/16052453/img_hero_landing_roseta-min.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=safiakhatoon767&label=Profile%20views&color=0e75b6&style=flat" alt="safiakhatoon767" /> </p>
 
 I mostly work with Cloud based technologies. 🚀
 
