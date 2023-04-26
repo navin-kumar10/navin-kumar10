@@ -27,7 +27,7 @@ I mostly work with Cloud based technologies. 🚀
     <img src="https://miro.medium.com/v2/resize:fit:1000/1*pUfSkjNdpS7i_jE3A8OV6Q.gif"  height="75" />
   </a>
   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://media3.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" height="70" />
+    <img src="https://media.licdn.com/dms/image/C4E12AQFGLdQlPRFtlQ/article-cover_image-shrink_600_2000/0/1624644461348?e=2147483647&v=beta&t=GH_YOyKhY3ZwWhF1fOls_FG8hKaEM3qO4FnJCUvYIbw" height="70" />
   </a>
  </p>
   
