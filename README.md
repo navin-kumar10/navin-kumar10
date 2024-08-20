@@ -27,6 +27,8 @@
 
 💬 Ask me about **DevOps Tools and Practices**
 
+🚀 To explore DevOps tools and practices, [visit my DevOps Engineer Learning Path](https://navin-kumar10.github.io/DevOps-repo/).
+
 📫 You can reach me at **navinkumar@kultivateindia.com**
 
 ⚡ Fun fact **We guys automate all the stuff**
