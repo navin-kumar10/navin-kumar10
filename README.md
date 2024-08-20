@@ -31,7 +31,7 @@
 
 📫 You can reach me at **navinkumar@kultivateindia.com**
 
-⚡ Fun fact **We guys automate all the stuff**
+⚡ Fun fact **We automate everything..!**
 
 ##### 👨‍💻 Some of the projects I have worked recently
 
