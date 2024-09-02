@@ -1,104 +1,116 @@
-<h1 align="center">Hi 👋, I'm Navin kumar 🌀 from India 🇮🇳</h1>
+<h1 align="center">Hi 👋, I'm Navin Kumar 🌀 from India 🇮🇳</h1>
 <h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/navin-kumar-3161a620a" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/linkedin.svg" alt="yatharth7" width="22px" />
-</a>
+  <a href="https://www.linkedin.com/in/navin-kumar-3161a620a" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px" />
+  </a>
   &nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/8779883/yatharth7" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/stackoverflow.svg" alt="yatharth7" width="22px" />
-</a>
+  <a href="https://stackoverflow.com/users/8779883/yatharth7" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" width="22px" />
+  </a>
   &nbsp;&nbsp;
-<a href="https://fb.com/yatharth.sharma.31" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/facebook.svg" alt="yatharth.sharma.31" width="22px" />
-</a>
+  <a href="https://fb.com/yatharth.sharma.31" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="22px" />
+  </a>
   &nbsp;&nbsp;
-<a href="https://instagram.com/__shoot__the__kuruvi" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/instagram.svg" alt="yatharth_sharma_7" width="22px" />
-</a>
-</a></p>
+  <a href="https://instagram.com/__shoot__the__kuruvi" target="_blank">
+    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="22px" />
+  </a>
+</p>
 
-![](https://komarev.com/ghpvc/?username=yatharth0045&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=navin-kumar10&style=flat-square&color=blue)
 
-🏢 I’m currently working in [Kultivate](https://www.kultivate.in/) as **DevOps Engineer**
+---
 
-💡 I’m currently working on **Setting up cloud infrastructure over AWS & DigitalOcean**
+🏢 I’m currently working at [Kultivate](https://www.kultivate.in/) as a **DevOps Engineer**.
 
-💬 Ask me about **DevOps Tools and Practices**
+💡 I’m currently working on **Setting up cloud infrastructure over AWS & DigitalOcean**.
+
+💬 Ask me about **DevOps Tools and Practices**.
 
 🚀 To explore DevOps tools and practices, [visit my DevOps Engineer Learning Path](https://navin-kumar10.github.io/DevOps-repo/).
 
-📫 You can reach me at **navinkumar@kultivateindia.com**
+📫 You can reach me at **navinkumar@kultivateindia.com**.
 
-⚡ Fun fact **We automate everything..!**
+⚡ Fun fact: **We automate everything..!**
 
-##### 👨‍💻 Some of the projects I have worked recently
+---
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS 
+### 👨‍💻 Recent Projects
 
-- 📦 Deployment of a static webpage using AWS s3 and CloudFront 
+- 📦 Terraform Templates for setting up Infrastructure over AWS.
+- 📦 Deployment of a static webpage using AWS S3 and CloudFront.
+- 📦 Setting up a Jenkins pipeline for CI/CD of a static website hosted on S3.
+- 📦 CI/CD of a Python Django application deployed using ECS & ECR.
+- 📦 Containerizing MicroServices and running them over AWS & Digital Ocean (Kubernetes, ECS & EC2, Droplets).
+- 📦 End-to-end DevOps integration and pipeline over AWS & Digital Ocean.
 
-- 📦 Setting up a jenkins pipeline for CI/CD of static website hosted on s3 
+---
 
-- 📦 CI CD of a python Django application Deploy using ECS & ECR
-
-- 📦 Containerizing MicroService and running it over AWS & Digital Ocean (Kubernetes , ECS & EC2,Droplets)
-
-- 📦 An Project for setting up end to end devops integration and pipeline prepared over AWS & Digital Ocean
-
-#### Programming Language Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" title="bash" title="bash" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" title="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/b15b6cf1726418913aafbf337a749dded180279d/topics/groovy/groovy.png" alt="groovy" title="groovy" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" title="java8" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" title="go" width="40" height="40"/> </p>
-
-#### OS Stack
+### Programming Language Stack
 <p align="left">
-  <img src="https://blogs.windows.com/wp-content/uploads/prod/2020/08/windows-logo-social.png" alt="linux" title="linux" width="40" height="40"/>
-  <img src="https://brandlogos.net/wp-content/uploads/2020/03/Linux-logo.png" alt="linux" title="linux" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" title="ubuntu" width="40" height="40"/>  
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="alpine" title="alpine" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="centOS" title="centOS" width="40" height="40"/> </p>
-
-#### Database Stack
-<p align="left">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgresql" title="postgresql" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" title="cassandra" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="couchbase" title="couchbase" width="40" height="40"/> </p>
-
-#### Dev Stack
-<p align="left"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/72101ee333eca9219ac9a7c14d4834eef8e4c64b/icons/file_type_maven.svg" alt="maven" title="maven" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/scala-sbt/scala-sbt-icon.svg" alt="sbt" title="sbt" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" title="kafka" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" title="elasticsearch" width="40" height="40"/> </p>
-
-#### DevOps Stack 
-<p align="left">
-<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="aws" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" title="gcp" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" title="ansible" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" title="terraform" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" title="jenkins" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" title="circleci" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="codeship" title="codeship" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="bamboo" title="bamboo" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" title="docker" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" title="kubernetes" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="harbor" title="harbor" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="traefik" title="traefik" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/github/explore/85cceaeeaf993ca35664dc37ea24f9237fbbfc14/topics/nginx/nginx.png" alt="nginx" title="nginx" width="40" height="40"/>  
-<img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="logstash" title="logstash" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" title="kibana" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="promethues" title="promethues" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/graphiteapp/graphiteapp-icon.svg" alt="graphite" title="graphite" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" title="grafana" width="40" height="40"/> </p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="bitbucket" title="bitbucket" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" title="jira" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="trello" title="trello" width="40" height="40"/></p>
-
-#### Editor / IDE I ♥
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" alt="sublime" title="sublime" width="40" height="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intellij" title="intellij" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1200px-PyCharm_Icon.svg.png" alt="intellij" title="pycharm" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_groovy/apache_groovy-icon.svg" alt="Groovy" title="Groovy" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" title="Go" width="40" height="40"/>
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=navin-kumar10&show_icons=true&hide=stars,issues" alt="navin-kumar10" /></p>
+### OS Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_windows/microsoft_windows-icon.svg" alt="Windows" title="Windows" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="Alpine" title="Alpine" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/>
+</p>
+
+### Database Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" title="Cassandra" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" title="Couchbase" width="40" height="40"/>
+</p>
+
+### Dev Stack
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" title="Maven" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala SBT" title="Scala SBT" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" title="Kafka" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" title="ElasticSearch" width="40" height="40"/>
+</p>
+
+### DevOps Stack 
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="GCP" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" title="CircleCI" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="Codeship" title="Codeship" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="Bamboo" title="Bamboo" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" title="Harbor" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" title="Helm" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" title="Nginx" width="40" height="40"/>
+</p>
+
+### 🛠 Tools
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" title="GitLab" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="BitBucket" title="BitBucket" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" title="GitKraken" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="Atom" title="Atom" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" title="Eclipse" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="Sublime" title="Sublime" width="40" height="40"/>
+</p>
+
+---
+
+![NavinKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-kumar10&show_icons=true&hide_border=true&theme=radical)
