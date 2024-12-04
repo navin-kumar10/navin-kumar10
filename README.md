@@ -6,7 +6,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://stackoverflow.com/users/8779883/yatharth7" target="_blank">
+  <a href="https://stackoverflow.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" width="22px" />
   </a>
   &nbsp;&nbsp;
