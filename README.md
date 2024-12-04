@@ -10,7 +10,7 @@
     <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" width="22px" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://fb.com/yatharth.sharma.31" target="_blank">
+  <a href="https://fb.com" target="_blank">
     <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="22px" />
   </a>
   &nbsp;&nbsp;
