@@ -1,116 +1,135 @@
-<h1 align="center">Hi 👋, I'm Navin Kumar 🌀 from India 🇮🇳</h1>
-<h3 align="center">The DevOps Guy who ♥ automating stuff</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/navin-kumar-3161a620a" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://stackoverflow.com" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Stack Overflow" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://fb.com" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" alt="Facebook" width="22px" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/__shoot__the__kuruvi" target="_blank">
-    <img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Instagram" width="22px" />
-  </a>
-</p>
+# 👋 Hey, I'm Navin Kumar
 
-![Profile Views](https://komarev.com/ghpvc/?username=navin-kumar10&style=flat-square&color=blue)
+### ☁️ DevOps & Cloud Engineer · AWS · Kubernetes · CI/CD · IaC · Observability
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-kumar-3161a620a)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinkumar592000@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__shoot__the__kuruvi)
+[![Profile Views](https://komarev.com/ghpvc/?username=navin-kumar10&style=for-the-badge&color=0e75b6)](https://github.com/navin-kumar10)
+
+</div>
 
 ---
 
-🏢 I’m currently working at [Kultivate](https://www.kultivate.in/) as a **DevOps Engineer**.
+## 🧑‍💻 About Me
 
-💡 I’m currently working on **Setting up cloud infrastructure over AWS & DigitalOcean**.
+Results-driven **DevOps Engineer with 4+ years** of hands-on experience designing, deploying, and operating highly available, scalable cloud infrastructure across **AWS and multi-cloud environments**.
 
-💬 Ask me about **DevOps Tools and Practices**.
-
-🚀 To explore DevOps tools and practices, [visit my DevOps Engineer Learning Path](https://navin-kumar10.github.io/DevOps-repo/).
-
-📫 You can reach me at **navinkumar@kultivateindia.com**.
-
-⚡ Fun fact: **We automate everything..!**
+- 🏢 Currently @ **[Kultivate India Software Pvt Ltd](https://www.kultivate.in/)** as a **DevOps Engineer**
+- 🚀 Expertise in **CI/CD pipelines**, **Kubernetes**, **Terraform/CloudFormation**, and **observability automation**
+- 🔐 Strong focus on **security**, **cost optimisation**, and **cloud-native architectures**
+- 📍 Based in **India 🇮🇳**
+- ⚡ *"We automate everything!"*
 
 ---
 
-### 👨‍💻 Recent Projects
+## 🛠️ Tech Stack
 
-- 📦 Terraform Templates for setting up Infrastructure over AWS.
-- 📦 Deployment of a static webpage using AWS S3 and CloudFront.
-- 📦 Setting up a Jenkins pipeline for CI/CD of a static website hosted on S3.
-- 📦 CI/CD of a Python Django application deployed using ECS & ECR.
-- 📦 Containerizing MicroServices and running them over AWS & Digital Ocean (Kubernetes, ECS & EC2, Droplets).
-- 📦 End-to-end DevOps integration and pipeline over AWS & Digital Ocean.
+### ☁️ Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F00?style=flat-square&logo=amazonaws&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 
----
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+![Harbor](https://img.shields.io/badge/Harbor-60B932?style=flat-square&logo=harbor&logoColor=white)
 
-### Programming Language Stack
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" title="Bash" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_groovy/apache_groovy-icon.svg" alt="Groovy" title="Groovy" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" title="Java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" alt="Go" title="Go" width="40" height="40"/>
-</p>
+### 🔄 CI/CD & DevOps Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS CodePipeline](https://img.shields.io/badge/AWS_Developer_Tools-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-1B1C30?style=flat-square&logo=sonatype&logoColor=white)
 
-### OS Stack
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_windows/microsoft_windows-icon.svg" alt="Windows" title="Windows" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux" title="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="Ubuntu" title="Ubuntu" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/alpinelinux/alpinelinux-icon.svg" alt="Alpine" title="Alpine" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/centos/centos-icon.svg" alt="CentOS" title="CentOS" width="40" height="40"/>
-</p>
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F7B731?style=flat-square&logo=grafana&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?style=flat-square&logo=jaeger&logoColor=white)
 
-### Database Stack
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" title="Cassandra" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/couchbase/couchbase-icon.svg" alt="Couchbase" title="Couchbase" width="40" height="40"/>
-</p>
+### 💻 Languages & Scripting
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=flat-square&logo=apachegroovy&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
-### Dev Stack
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="Maven" title="Maven" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala SBT" title="Scala SBT" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" title="Kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" title="ElasticSearch" width="40" height="40"/>
-</p>
-
-### DevOps Stack 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" title="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" title="GCP" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" title="Ansible" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" title="Terraform" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" title="Jenkins" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI" title="CircleCI" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/codeship/codeship-icon.svg" alt="Codeship" title="Codeship" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atlassian_bamboo/atlassian_bamboo-icon.svg" alt="Bamboo" title="Bamboo" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" title="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/goharborio/goharborio-icon.svg" alt="Harbor" title="Harbor" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" title="Helm" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="Nginx" title="Nginx" width="40" height="40"/>
-</p>
-
-### 🛠 Tools
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" title="GitLab" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-icon.svg" alt="BitBucket" title="BitBucket" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" title="GitKraken" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" title="VS Code" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="Atom" title="Atom" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/eclipse/eclipse-icon.svg" alt="Eclipse" title="Eclipse" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/sublimetext/sublimetext-icon.svg" alt="Sublime" title="Sublime" width="40" height="40"/>
-</p>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
+![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=flat-square&logo=couchbase&logoColor=white)
 
 ---
 
-![NavinKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-kumar10&show_icons=true&hide_border=true&theme=radical)
+## 🏆 Key Achievements
+
+| Achievement | Impact |
+|---|---|
+| ✅ On-Prem → AWS Cloud Migration | Achieved **99.9% uptime**, reduced costs significantly |
+| ✅ CI/CD Pipeline Automation | Reduced release cycles by **40%** |
+| ✅ Centralised Observability Platform | Built with Prometheus, Grafana, Loki, Jaeger, Alertmanager |
+| ✅ Zero-Downtime DB Engine Upgrades | Ensured seamless production transitions |
+| ✅ Kubernetes Microservices Orchestration | High availability with auto-scaling & rolling deployments |
+| ✅ Secrets Management | Automated RDS credential rotation via AWS Secrets Manager |
+
+---
+
+## 📦 Notable Projects
+
+- 🏗️ **Terraform Templates** — Reusable IaC modules for AWS infrastructure provisioning
+- 🌐 **Static Site CI/CD** — Jenkins pipeline + S3 + CloudFront automated deployment
+- 🐍 **Django App on ECS/ECR** — Full CI/CD pipeline with containerised deployment
+- 🔬 **Centralised Observability Stack** — Prometheus · Grafana · Loki · Promtail · Jaeger · Alertmanager
+- 🚢 **Microservices on K8s & ECS** — Dockerised services across AWS & DigitalOcean
+- ☁️ **End-to-End Cloud DevOps Platform** — Full-stack automation across AWS & DigitalOcean
+
+---
+
+## 🎓 Certifications
+
+- 🏅 **Microsoft Certified: Azure Administrator** — Intellipaat
+- 🏅 **Executive PG Certification in Cloud Computing & DevOps (AWS)** — IIT Roorkee
+- 🏅 **AWS Certification** — Intellipaat
+- 🏅 **DevOps Certification** — Intellipaat
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Navin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=navin-kumar10&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navin-kumar10&layout=compact&hide_border=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=navin-kumar10&hide_border=true&theme=tokyonight)
+
+</div>
+
+---
+
+## 📚 DevOps Learning Path
+
+🚀 Explore my curated DevOps learning resources and projects at:
+**[navin-kumar10.github.io/DevOps-repo](https://navin-kumar10.github.io/DevOps-repo/)**
+
+---
+
+<div align="center">
+
+*"Automation is not just a tool — it's a mindset."*
+
+💬 Open to **collaborations**, **consulting**, and **DevOps discussions**. Let's connect!
+
+</div>
