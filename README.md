@@ -10,7 +10,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navin-kumar-3161a620a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:navinkumar592000@gmail.com)
-[![Phone](https://img.shields.io/badge/+91_9952396356-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919952396356)
 [![Portfolio](https://img.shields.io/badge/DevOps--Repo-000000?style=for-the-badge&logo=github&logoColor=white)](https://navin-kumar10.github.io/DevOps-repo/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/__shoot__the__kuruvi)
 
