@@ -34,7 +34,7 @@ navin_kumar:
   company       : "Kultivate India Software Pvt Ltd"
   experience    : "4+ Years (Sep 2021 – Present)"
   location      : "India 🇮🇳"
-  education     : "B.Sc Computer Applications — Selvamm College of Technology (2018–2021)"
+  education     : "BCA Computer Applications — Selvamm College of Technology (2018–2021)"
 
   core_expertise:
     cloud         : ["AWS (Primary)", "DigitalOcean", "GCP"]
